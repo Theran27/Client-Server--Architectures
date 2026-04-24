@@ -72,7 +72,7 @@ smart-campus-api/
 ## 1) Build the project
 
 ```powershell
-cd "C:\Users\Thiviru\Desktop\Thiviru\CSA-Final\smart-campus-api"
+cd "GO TO smart-campus-api"
 mvn clean package
 ```
 
